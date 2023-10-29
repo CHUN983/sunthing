@@ -1,2 +1,2 @@
-# sunthing
-the first code
+# teach
+all the code in here
